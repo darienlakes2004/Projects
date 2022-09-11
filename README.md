@@ -7,9 +7,7 @@ Languages TODO:
   - Python
   - Perl
   - Go
-  - C
-  - C++
-  - C#
+  - C Family
   - Java
   - JavaScript
   - Rust
