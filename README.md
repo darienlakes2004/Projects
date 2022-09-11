@@ -1,7 +1,7 @@
 # Projects
 A compilation of projects in various languages
 So far there is:
-  - Rock Paper Scissors in Python
+  - Rock Paper Scissors in Python and C
 
 Languages TODO:
   - Python
