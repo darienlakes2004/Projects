@@ -28,4 +28,4 @@ Projects TODO:
   - Website
   - URL Shortener
   - Desktop Assisstant
-  - 
+  - Rock, Paper, Scissors
