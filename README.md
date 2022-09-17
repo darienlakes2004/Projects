@@ -15,6 +15,7 @@ Languages TODO:
   - R
 
 Projects TODO:
+  - Augmented Reality
   - Webscraper
   - Calender
   - Todo list
